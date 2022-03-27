@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: adcc5fc6-7ecc-6a7d-ea96-1dd23dea6b53
 resourcetype: Document
 title: historic_devlpmt.pdf
 uid: 26fd4976-bf96-2be8-5447-679444e4eb0a

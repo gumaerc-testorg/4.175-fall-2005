@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: adcc5fc6-7ecc-6a7d-ea96-1dd23dea6b53
 resourcetype: Document
 title: hstricl_anlys.pdf
 uid: 9518dfa3-67f1-6291-d0ea-4676f88fd137

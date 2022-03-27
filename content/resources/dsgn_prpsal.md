@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: adcc5fc6-7ecc-6a7d-ea96-1dd23dea6b53
 resourcetype: Document
 title: dsgn_prpsal.pdf
 uid: 84ba8eae-2b62-7387-c3e4-ae1cd6413fd1
