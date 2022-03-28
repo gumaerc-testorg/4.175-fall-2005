@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
+parent_uid: null
 title: Projects
 uid: adcc5fc6-7ecc-6a7d-ea96-1dd23dea6b53
 ---
@@ -11,15 +12,15 @@ A selection of student projects developed over the course of the semester is ava
 
 "Alexandria: Urban Development and Analysis" - Neeraj Bhatia
 
-*   Introduction ([PDF]({{< baseurl >}}/resources/introductional))
+*   Introduction ({{< resource_link c853c14e-dd4c-460b-2a43-ac02f08dfbfa "PDF" >}})
     
-*   Historical Analysis ([PDF - 1.9 MB]({{< baseurl >}}/resources/hstricl_anlys))
+*   Historical Analysis ({{< resource_link 9518dfa3-67f1-6291-d0ea-4676f88fd137 "PDF - 1.9 MB" >}})
     
-*   Present Day Analysis ([PDF]({{< baseurl >}}/resources/prsnt_dy_anlys))
+*   Present Day Analysis ({{< resource_link 0ef8782e-77dc-92fe-9c94-723714e1e43c "PDF" >}})
     
-*   Design Proposal ([PDF - 3.1 MB]({{< baseurl >}}/resources/dsgn_prpsal))
+*   Design Proposal ({{< resource_link 84ba8eae-2b62-7387-c3e4-ae1cd6413fd1 "PDF - 3.1 MB" >}})
     
-*   Bibliography ([PDF]({{< baseurl >}}/resources/bibliographyal))
+*   Bibliography ({{< resource_link 810880ec-862a-1d9f-36a8-fe7c0840389d "PDF" >}})
     
 
-"City Study: Washington, DC" - Jeffrey Fugate ([PDF - 1.3 MB]({{< baseurl >}}/resources/washingtondc))
+"City Study: Washington, DC" - Jeffrey Fugate ({{< resource_link 26e95711-eba8-f240-59bc-a580e1a41f3f "PDF - 1.3 MB" >}})
