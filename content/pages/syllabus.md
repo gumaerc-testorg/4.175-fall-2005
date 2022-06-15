@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section provides information about the structure of the course i.e.
+  how the the course has been designed for students.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: b09c0fea-c3f4-74b3-9a00-f8889b90cf48
 ---
