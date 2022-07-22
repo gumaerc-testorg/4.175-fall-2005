@@ -6,6 +6,7 @@ file: /courses/4-175-case-studies-in-city-form-fall-2005/340260e888493017186e1dd
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: chapter2.pdf
 uid: 340260e8-8849-3017-186e-1dd9825b6041
 ---
 This resources contains the project report on block and building types in amsterdam.
-

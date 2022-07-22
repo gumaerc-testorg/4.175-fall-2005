@@ -6,6 +6,7 @@ file: /courses/4-175-case-studies-in-city-form-fall-2005/26fd4976bf962be85447679
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: historic_devlpmt.pdf
 uid: 26fd4976-bf96-2be8-5447-679444e4eb0a
 ---
 This resources contains the project report on historic development tyes in isfahan.
-

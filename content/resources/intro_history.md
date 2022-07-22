@@ -6,6 +6,7 @@ file: /courses/4-175-case-studies-in-city-form-fall-2005/f5455a0983489456fc591b5
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: intro_history.pdf
 uid: f5455a09-8348-9456-fc59-1b5f62f4156b
 ---
 This resources contains the project report on urban development and analysis in isfahan.
-

@@ -5,6 +5,7 @@ file: /courses/4-175-case-studies-in-city-form-fall-2005/67dd5f3b426c19eb6821ba9
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chapter3.pdf
 uid: 67dd5f3b-426c-19eb-6821-ba9731a59b78
 ---
 This resources contains the project report on Neighborhoods in amsterdam.
-

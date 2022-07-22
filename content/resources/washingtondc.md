@@ -6,6 +6,7 @@ file: /courses/4-175-case-studies-in-city-form-fall-2005/26e95711eba8f24059bca58
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: washingtondc.pdf
 uid: 26e95711-eba8-f240-59bc-a580e1a41f3f
 ---
 This resources contains the project report on city study of washington dc.
-

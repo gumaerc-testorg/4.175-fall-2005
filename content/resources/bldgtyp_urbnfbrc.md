@@ -6,6 +6,7 @@ file: /courses/4-175-case-studies-in-city-form-fall-2005/2c4e8102d3662f7a59c3231
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: bldgtyp_urbnfbrc.pdf
 uid: 2c4e8102-d366-2f7a-59c3-2313c726a3ea
 ---
 This resource provide the reading matrial on building types and urban fabric.
-
