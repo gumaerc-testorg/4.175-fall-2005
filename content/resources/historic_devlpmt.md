@@ -3,6 +3,7 @@ content_type: resource
 description: This resources contains the project report on historic development tyes
   in isfahan.
 file: /courses/4-175-case-studies-in-city-form-fall-2005/26fd4976bf962be85447679444e4eb0a_historic_devlpmt.pdf
+file_size: 8647432
 file_type: application/pdf
 learning_resource_types:
 - Projects

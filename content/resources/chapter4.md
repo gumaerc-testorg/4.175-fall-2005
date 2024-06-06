@@ -3,6 +3,7 @@ content_type: resource
 description: This resources contains the project report on streets and squares in
   amsterdam.
 file: /courses/4-175-case-studies-in-city-form-fall-2005/87b8e8231d25ee8481f72c5cf46cbeb5_chapter4.pdf
+file_size: 1034331
 file_type: application/pdf
 learning_resource_types:
 - Projects
