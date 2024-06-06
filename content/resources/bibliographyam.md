@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource material contains the list of readings.
 file: /courses/4-175-case-studies-in-city-form-fall-2005/4503dd60753d6461ebf6c34e572cbb19_bibliographyam.pdf
+file_size: 896527
 file_type: application/pdf
 learning_resource_types:
 - Projects

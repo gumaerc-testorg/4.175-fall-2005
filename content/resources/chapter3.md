@@ -2,6 +2,7 @@
 content_type: resource
 description: This resources contains the project report on Neighborhoods in amsterdam.
 file: /courses/4-175-case-studies-in-city-form-fall-2005/67dd5f3b426c19eb6821ba9731a59b78_chapter3.pdf
+file_size: 3416042
 file_type: application/pdf
 learning_resource_types:
 - Projects
