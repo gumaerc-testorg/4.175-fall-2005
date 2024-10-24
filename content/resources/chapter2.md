@@ -2,7 +2,7 @@
 content_type: resource
 description: This resources contains the project report on block and building types
   in amsterdam.
-file: /courses/4-175-case-studies-in-city-form-fall-2005/340260e888493017186e1dd9825b6041_chapter2.pdf
+file: /ol-ocw-studio-app/courses/4-175-case-studies-in-city-form-fall-2005/340260e888493017186e1dd9825b6041_chapter2.pdf
 file_size: 7919645
 file_type: application/pdf
 learning_resource_types:
