@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resources contains the project report on common ground in amsterdam.
-file: /ol-ocw-studio-app/courses/4-175-case-studies-in-city-form-fall-2005/c717e1e324699c64fb994088e68a58a9_chapter6.pdf
+file: /courses/4-175-case-studies-in-city-form-fall-2005/c717e1e324699c64fb994088e68a58a9_chapter6.pdf
 file_size: 921773
 file_type: application/pdf
 learning_resource_types:

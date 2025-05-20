@@ -2,7 +2,7 @@
 content_type: resource
 description: This resources contains the project report on urban development and analysis
   in isfahan.
-file: /ol-ocw-studio-app/courses/4-175-case-studies-in-city-form-fall-2005/f5455a0983489456fc591b5f62f4156b_intro_history.pdf
+file: /courses/4-175-case-studies-in-city-form-fall-2005/f5455a0983489456fc591b5f62f4156b_intro_history.pdf
 file_size: 1337657
 file_type: application/pdf
 learning_resource_types:

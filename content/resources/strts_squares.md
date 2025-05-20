@@ -2,7 +2,7 @@
 content_type: resource
 description: This resources contains the project report on streets and squares in
   isfahan.
-file: /ol-ocw-studio-app/courses/4-175-case-studies-in-city-form-fall-2005/a4a3c3f066e6046d4ddab9b5adbca77d_strts_squares.pdf
+file: /courses/4-175-case-studies-in-city-form-fall-2005/a4a3c3f066e6046d4ddab9b5adbca77d_strts_squares.pdf
 file_size: 4625955
 file_type: application/pdf
 learning_resource_types:
