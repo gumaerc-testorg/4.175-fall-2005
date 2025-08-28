@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the project report on historical development in
   amsterdam.
-file: /courses/4-175-case-studies-in-city-form-fall-2005/3d454445270e0ee731efa57fb5eba180_chapter1.pdf
+file: /ol-ocw-studio-app/courses/4-175-case-studies-in-city-form-fall-2005/3d454445270e0ee731efa57fb5eba180_chapter1.pdf
 file_size: 2070496
 file_type: application/pdf
 learning_resource_types:

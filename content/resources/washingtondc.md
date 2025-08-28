@@ -2,7 +2,7 @@
 content_type: resource
 description: This resources contains the project report on city study of washington
   dc.
-file: /courses/4-175-case-studies-in-city-form-fall-2005/26e95711eba8f24059bca580e1a41f3f_washingtondc.pdf
+file: /ol-ocw-studio-app/courses/4-175-case-studies-in-city-form-fall-2005/26e95711eba8f24059bca580e1a41f3f_washingtondc.pdf
 file_size: 1404025
 file_type: application/pdf
 learning_resource_types:
